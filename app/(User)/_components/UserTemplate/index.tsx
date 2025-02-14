@@ -3,7 +3,7 @@ import Header from './Header';
 import InfoBanner from './InfoBanner';
 import SideBar from './SideBar';
 
-function Template({
+function UserTemplate({
     children,
 }: Readonly<{
     children: React.ReactNode;
@@ -15,11 +15,10 @@ function Template({
             <div className="MuiBox-root css-o8huv3" id="astra-portal-body">
                 <SideBar />
                 {children}
-
             </div>
 
         </div>
     )
 }
 
-export default Template
+export default UserTemplate
