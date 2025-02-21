@@ -19,11 +19,12 @@ function PublicFooter() {
                                     data-id="7fcdf2f" data-element_type="widget"
                                     data-widget_type="radiant-custom-image.default">
                                     <div className="elementor-widget-container">
-                                        <Image alt="custom-image"
+                                        {/* <Image alt="custom-image"
                                             src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/logo.png"
                                             width={169}
                                             height={53}
-                                        />
+                                        /> */}
+                                        <span style={{color:'white', fontSize:26}}> FutrBrit AI</span>
                                     </div>
                                 </div>
                                 <div className="elementor-element elementor-element-63ae21c elementor-widget elementor-widget-text-editor"
@@ -79,7 +80,7 @@ function PublicFooter() {
                                     className="elementor-section elementor-inner-section elementor-element elementor-element-c92d54a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                     data-id="c92d54a" data-element_type="section">
                                     <div className="elementor-container elementor-column-gap-default">
-                                        <div className="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-83e2b4f footer-col"
+                                        {/* <div className="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-83e2b4f footer-col"
                                             data-id="83e2b4f" data-element_type="column">
                                             <div className="elementor-widget-wrap elementor-element-populated">
                                                 <div className="elementor-element elementor-element-8d4f6bb elementor-widget elementor-widget-radiant-custom-heading"
@@ -97,7 +98,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <a href="https://zaap.wpthemedemos.com/features/"><span
+                                                                <a href="#"><span
                                                                     className="elementor-icon-list-text">Features
                                                                 </span>
                                                                 </a>
@@ -111,7 +112,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <a href="https://zaap.wpthemedemos.com/about-us-one/"><span
+                                                                <a href="#"><span
                                                                     className="elementor-icon-list-text">About </span>
                                                                 </a>
                                                             </li>
@@ -125,7 +126,7 @@ function PublicFooter() {
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
                                                                 <a
-                                                                    href="https://zaap.wpthemedemos.com/our-service-one/"><span
+                                                                    href="#"><span
                                                                         className="elementor-icon-list-text">Service </span>
                                                                 </a>
                                                             </li>
@@ -138,7 +139,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <a href="https://zaap.wpthemedemos.com/team/"><span
+                                                                <a href="#"><span
                                                                     className="elementor-icon-list-text">Team</span>
                                                                 </a>
                                                             </li>
@@ -166,7 +167,7 @@ function PublicFooter() {
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
                                                                 <a
-                                                                    href="https://zaap.wpthemedemos.com/our-service-two/"><span
+                                                                    href="#"><span
                                                                         className="elementor-icon-list-text">FAQ </span>
                                                                 </a>
                                                             </li>
@@ -179,7 +180,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <a href="https://zaap.wpthemedemos.com/blog/"><span
+                                                                <a href="#"><span
                                                                     className="elementor-icon-list-text">Blog </span>
                                                                 </a>
                                                             </li>
@@ -192,7 +193,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <a href="https://zaap.wpthemedemos.com/contact-us-one/"><span
+                                                                <a href="#"><span
                                                                     className="elementor-icon-list-text">Contact Us
                                                                 </span>
                                                                 </a>
@@ -206,7 +207,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <a href="https://zaap.wpthemedemos.com/contact-us-two/"><span
+                                                                <a href="#"><span
                                                                     className="elementor-icon-list-text">Support</span>
                                                                 </a>
                                                             </li>
@@ -214,7 +215,7 @@ function PublicFooter() {
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                         <div className="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4b6ec55 footer-col"
                                             data-id="4b6ec55" data-element_type="column">
                                             <div className="elementor-widget-wrap elementor-element-populated">
@@ -245,8 +246,7 @@ function PublicFooter() {
                                                     <div className="elementor-widget-container">
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
-                                                                <span className="elementor-icon-list-text">(888)
-                                                                    1234-5678</span>
+                                                                <span className="elementor-icon-list-text">07-985-436-979</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -270,7 +270,7 @@ function PublicFooter() {
                                                         <ul className="elementor-icon-list-items elementor-inline-items">
                                                             <li className="elementor-icon-list-item elementor-inline-item">
                                                                 <span className="elementor-icon-list-text">
-                                                                    info@example.com</span>
+                                                                info@futrbrit.com</span>
                                                             </li>
                                                         </ul>
                                                     </div>
