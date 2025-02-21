@@ -7,8 +7,8 @@ function HomeBanner() {
             className="elementor-section elementor-top-section elementor-element elementor-element-9fccb28 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
             data-id="9fccb28" data-element_type="section"
             data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-            // style={{ width: 1792, left: "0px" }}
-            >
+        // style={{ width: 1792, left: "0px" }}
+        >
             <div className="elementor-background-overlay"></div>
             <div className="elementor-shape elementor-shape-bottom" data-negative="false">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -31,7 +31,7 @@ function HomeBanner() {
                                             data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
                                             data-widget_type="image.default">
                                             <div className="elementor-widget-container">
-                                                <a href="https://www.facebook.com/">
+                                                <a href="#">
                                                     <Image decoding="async" width="16" height="97"
                                                         src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/Facebook-1.png"
                                                         className="attachment-large size-large wp-image-5696"
@@ -48,7 +48,7 @@ function HomeBanner() {
                                             data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
                                             data-widget_type="image.default">
                                             <div className="elementor-widget-container">
-                                                <a href="https://www.instagram.com/">
+                                                <a href="#">
                                                     <Image decoding="async" width="16" height="104"
                                                         src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/Instagram.png"
                                                         className="attachment-large size-large wp-image-5697"
@@ -65,7 +65,7 @@ function HomeBanner() {
                                             data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
                                             data-widget_type="image.default">
                                             <div className="elementor-widget-container">
-                                                <a href="https://twitter.com/">
+                                                <a href="#">
                                                     <Image decoding="async" width="16" height="105"
                                                         src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/Twitter.png"
                                                         className="attachment-large size-large wp-image-5698"
@@ -76,7 +76,7 @@ function HomeBanner() {
                                 </div>
                             </div>
                         </section>
-                        <section
+                        {/* <section
                             className="elementor-section elementor-inner-section elementor-element elementor-element-fb1c5f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                             data-id="fb1c5f5" data-element_type="section">
                             <div className="elementor-container elementor-column-gap-default">
@@ -110,7 +110,7 @@ function HomeBanner() {
                                     </div>
                                 </div>
                             </div>
-                        </section>
+                        </section> */}
                         <div className="elementor-element elementor-element-a232cdb elementor-widget elementor-widget-radiant-animated-heading"
                             data-id="a232cdb" data-element_type="widget"
                             data-settings="{&quot;rtdelay&quot;:3500}"
@@ -120,25 +120,23 @@ function HomeBanner() {
                                     data-lwaiting="3000" data-letterdelay="150" data-lduration="500"
                                     data-lanimdelay="1300" data-cduration="600" data-cdelay="1500">
                                     <h1 className="rt-headline rt-zoom">
-                                        <span className="before-text">we provide Interesting </span>
-                                        <span className="rt-words-wrapper" style={{ width: "462.242px" }}><b
-                                            className="elementor-repeater-item-a864743 rt-is-hidden">Cyber
-                                            security</b><b
-                                                className="elementor-repeater-item-08175fa rt-is-hidden">Authorizations</b><b
-                                                    className="elementor-repeater-item-092bea1 rt-is-hidden">Criminological</b><b
-                                                        className="elementor-repeater-item-5caf5eb rt-is-visible">Microprojector</b></span>
-                                        <span className="after-text">apps In The World...</span>
+                                        <span className="before-text">Empowering Migrants with</span>
+                                        <span className="rt-words-wrapper"
+                                        // style={{ width: "462.242px" }}
+                                        ><b
+                                            className="elementor-repeater-item-5caf5eb rt-is-visible">AI-Powered</b></span>
+                                        <span className="after-text">Visa Assistance & More!</span>
                                     </h1>
                                 </section>
                             </div>
                         </div>
-                        <div className="elementor-element elementor-element-877b6a8 elementor-widget elementor-widget-text-editor"
+                        {/* <div className="elementor-element elementor-element-877b6a8 elementor-widget elementor-widget-text-editor"
                             data-id="877b6a8" data-element_type="widget"
                             data-widget_type="text-editor.default">
                             <div className="elementor-widget-container">
                                 Curabitur interdum sapien ut vestibulum tristique. Duis dapibus nisi vitae
                                 finibus consequat arcu metus lacina euismod tincidun. </div>
-                        </div>
+                        </div> */}
                         <div className="elementor-element elementor-element-9005de5 elementor-absolute e-transform e-transform e-transform elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet_extra elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor"
                             data-id="9005de5" data-element_type="widget"
                             data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:90,&quot;sizes&quot;:[]},&quot;_transform_flipX_effect&quot;:&quot;transform&quot;,&quot;_transform_flipY_effect&quot;:&quot;transform&quot;,&quot;_transform_rotateZ_effect_widescreen&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_laptop&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet_extra&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile_extra&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
@@ -163,7 +161,7 @@ function HomeBanner() {
                                                 <div className="Wplgnite-custom-button element-three">
                                                     <div className="rt-btn-effect">
                                                         <div className="rt-btn-effect-info"><a
-                                                            href="https://zaap.wpthemedemos.com/about-us-four/"
+                                                            href="#"
                                                             className="link" target="_blank" rel="nofollow">
                                                             <div className="mask">
                                                                 <div className="link-container"> <span
@@ -188,12 +186,12 @@ function HomeBanner() {
                                             <div className="elementor-widget-container">
                                                 <div className="Wplgnite-custom-button element-three">
                                                     <div className="rt-btn-effect">
-                                                        <div className="rt-btn-effect-info"><a href="#"
+                                                        <div className="rt-btn-effect-info"><a href="tel:07985436979"
                                                             className="link" target="_blank" rel="nofollow">
                                                             <div className="mask">
                                                                 <div className="link-container"> <span
-                                                                    className="link-title1 title">(888)1234-5678</span><span
-                                                                        className="link-title2 title">(888)1234-5678</span>
+                                                                    className="link-title1 title">0798-543-6979</span><span
+                                                                        className="link-title2 title">0798-543-6979</span>
                                                                 </div>
                                                             </div>
                                                         </a> </div>

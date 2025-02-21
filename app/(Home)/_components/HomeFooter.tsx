@@ -1,5 +1,3 @@
-import Image from 'next/image'
-import React from 'react'
 
 function HomeFooter() {
     return (
@@ -9,8 +7,8 @@ function HomeFooter() {
                     className="elementor-section elementor-top-section elementor-element elementor-element-063b8d5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="063b8d5" data-element_type="section"
                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"
-                    // style={{ width: 1792, left: "0px" }}
-                    >
+                // style={{ width: 1792, left: "0px" }}
+                >
                     <div className="elementor-container elementor-column-gap-default">
                         <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a25066"
                             data-id="2a25066" data-element_type="column">
@@ -51,7 +49,7 @@ function HomeFooter() {
                                                         <div className="Wplgnite-custom-button element-three">
                                                             <div className="rt-btn-effect">
                                                                 <div className="rt-btn-effect-info"><a
-                                                                    href="https://zaap.wpthemedemos.com/task-management/"
+                                                                    href="#"
                                                                     className="link" target="_blank" rel="nofollow">
                                                                     <div className="mask">
                                                                         <div className="link-container"> <span
@@ -80,10 +78,11 @@ function HomeFooter() {
                                                     data-id="2f0732f" data-element_type="widget"
                                                     data-widget_type="image.default">
                                                     <div className="elementor-widget-container">
-                                                        <Image width="155" height="41"
+                                                        {/* <Image width="155" height="41"
                                                             src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/Zapp-white-logo.svg"
                                                             className="attachment-large size-large wp-image-3601"
-                                                            alt="Zapp White Logo" loading="lazy" />
+                                                            alt="Zapp White Logo" loading="lazy" /> */}
+                                                        <span style={{ color: 'white', fontSize:30 }}>FutrBrit AI</span>
                                                     </div>
                                                 </div>
                                                 <div className="elementor-element elementor-element-f9e820a elementor-widget elementor-widget-text-editor"
@@ -92,12 +91,12 @@ function HomeFooter() {
                                                     <div className="elementor-widget-container">
                                                         Designed by <span style={{ color: "#ffffff" }}><a
                                                             style={{ color: "#ffffff" }}
-                                                            href="https://themeforest.net/user/wpignite/portfolio">
-                                                            Wpignite </a></span> </div>
+                                                            href="#">
+                                                            WSS </a></span> </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-89beb5d"
+                                        {/* <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-89beb5d"
                                             data-id="89beb5d" data-element_type="column">
                                             <div className="elementor-widget-wrap elementor-element-populated">
                                                 <div className="elementor-element elementor-element-8e088c9 elementor-widget elementor-widget-text-editor"
@@ -167,8 +166,8 @@ function HomeFooter() {
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3c625fa"
+                                        </div> */}
+                                        {/* <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3c625fa"
                                             data-id="3c625fa" data-element_type="column">
                                             <div className="elementor-widget-wrap elementor-element-populated">
                                                 <div className="elementor-element elementor-element-6bd4b08 elementor-widget elementor-widget-text-editor"
@@ -239,7 +238,7 @@ function HomeFooter() {
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                         <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-78c1340"
                                             data-id="78c1340" data-element_type="column">
                                             <div className="elementor-widget-wrap elementor-element-populated">
@@ -260,12 +259,11 @@ function HomeFooter() {
                                                     data-widget_type="button.default">
                                                     <div className="elementor-widget-container">
                                                         <div className="elementor-button-wrapper">
-                                                            <a href="#"
+                                                            <a href="tel:07985436979"
                                                                 className="elementor-button-link elementor-button elementor-size-lg"
                                                                 role="button">
                                                                 <span className="elementor-button-content-wrapper">
-                                                                    <span className="elementor-button-text">(888)
-                                                                        1234-5678</span>
+                                                                    <span className="elementor-button-text">0798-5436-979</span>
                                                                 </span>
                                                             </a>
                                                         </div>
@@ -287,7 +285,7 @@ function HomeFooter() {
                                                                 role="button">
                                                                 <span className="elementor-button-content-wrapper">
                                                                     <span
-                                                                        className="elementor-button-text">info@example.com</span>
+                                                                        className="elementor-button-text">info@futrbrit.com</span>
                                                                 </span>
                                                             </a>
                                                         </div>

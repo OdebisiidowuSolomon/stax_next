@@ -3,8 +3,8 @@ import "./style.css";
 import HomeOverLay from "./_components/HomeOverLay";
 
 export const metadata: Metadata = {
-    title: "DataStax Next",
-    description: "Deploy your database and develop bold generative AI applications",
+    title: "FutrBrit AI",
+    description: "FutrBrit AI - Your AI-Powered Migrant Assistant",
 };
 
 export default function HomeLayout({

@@ -131,7 +131,7 @@ function HomeDataDiagnostic() {
                                                 <div className="Wplgnite-custom-button element-three">
                                                     <div className="rt-btn-effect">
                                                         <div className="rt-btn-effect-info"><a
-                                                            href="https://zaap.wpthemedemos.com/contact-us-one/"
+                                                            href="#"
                                                             className="link" target="_blank" rel="nofollow">
                                                             <div className="mask">
                                                                 <div className="link-container"> <span

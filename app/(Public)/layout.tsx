@@ -5,8 +5,8 @@ import "./public.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "About Us Layout",
-    description: "This is a next app!",
+    title: "About",
+    description: "FutrBrit AI - Your AI-Powered Migrant Assistant",
 };
 
 export default function PublicLayout({

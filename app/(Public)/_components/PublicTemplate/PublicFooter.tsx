@@ -9,7 +9,8 @@ function PublicFooter() {
                     className="elementor-section elementor-top-section elementor-element elementor-element-f6cb931 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="f6cb931" data-element_type="section"
                     data-settings="{&quot;background_background&quot;:&quot;classNameic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                    style={{ width: 1792, left: 0 }}>
+                    // style={{ width: 1792, left: 0 }}
+                    >
                     <div className="elementor-container elementor-column-gap-default">
                         <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e642ac7 footer-col"
                             data-id="e642ac7" data-element_type="column">
