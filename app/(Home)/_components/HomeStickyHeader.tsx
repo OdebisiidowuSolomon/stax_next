@@ -42,7 +42,7 @@ function HomeStickyHeader() {
                                                     </div>
                                                     <div className="logo-holder">
                                                         <div className="logo Wplgnite-retina"><a
-                                                            href="https://zaap.wpthemedemos.com"><span
+                                                            href="#"><span
                                                                 className="logo-default test-retina-two"><Image alt="logo"
                                                                     src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/zaap-header-logo.svg"
                                                                     width="130" height="36" /></span></a></div>
@@ -1167,7 +1167,7 @@ function HomeStickyHeader() {
                                                     </div>
                                                     <div className="logo-holder">
                                                         <div className="logo Wplgnite-retina"><a
-                                                            href="https://zaap.wpthemedemos.com"><span
+                                                            href="#"><span
                                                                 className="logo-default test-retina-two"><Image alt="logo"
                                                                     src="https://zaap.wpthemedemos.com/wp-content/uploads/2022/12/Zapp-white-logo.svg"
                                                                     width="130" height="36" /></span></a></div>

@@ -9,7 +9,8 @@ function HomeFooter() {
                     className="elementor-section elementor-top-section elementor-element elementor-element-063b8d5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="063b8d5" data-element_type="section"
                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"
-                    style={{ width: 1792, left: "0px" }}>
+                    // style={{ width: 1792, left: "0px" }}
+                    >
                     <div className="elementor-container elementor-column-gap-default">
                         <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a25066"
                             data-id="2a25066" data-element_type="column">

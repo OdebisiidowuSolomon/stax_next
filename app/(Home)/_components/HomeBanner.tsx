@@ -7,7 +7,8 @@ function HomeBanner() {
             className="elementor-section elementor-top-section elementor-element elementor-element-9fccb28 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
             data-id="9fccb28" data-element_type="section"
             data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-            style={{ width: 1792, left: "0px" }}>
+            // style={{ width: 1792, left: "0px" }}
+            >
             <div className="elementor-background-overlay"></div>
             <div className="elementor-shape elementor-shape-bottom" data-negative="false">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
